@@ -1,0 +1,88 @@
+.left {
+    display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+        justify-content: space-between;
+ 
+    }
+
+    .Articles{
+        display: flex;
+    flex-direction: column;
+    }
+    .Articlesitemt{
+     display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
+
+    .paragraph {
+       font-size: 12px;
+    }
+
+    .anker{
+        font-size: 18px;
+    }
+    .searchic{
+        font-size: 10px;
+        margin: auto; 
+    }
+    .i{
+        width:200px
+    }
+    .pictur{
+    margin-bottom: 20px;
+    }
+    .t{
+        max-width: 1300px;
+    }
+
+    .intro{
+        padding:30px;
+    }
+    .itmes{
+        padding: 0px;
+    }
+    .hdli{
+        display: flex;
+        flex-direction: column;
+        font-size: 10px;
+    }
+ .textarea{
+    width: 100%;
+ }
+ .Articles1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+ .icon{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+ }
+ .arty{
+    width: 80vw;
+  margin:auto;
+ }
+ .intro2{
+    width: 65vw;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+  
+}
+.navitems {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    font-family: 'Roboto Mono', monospace;  
+}
+.btns{
+    border-radius: 20px;
+    font-size: 15px;
+    padding: 9px;
+    margin-left: 10px;
+}
